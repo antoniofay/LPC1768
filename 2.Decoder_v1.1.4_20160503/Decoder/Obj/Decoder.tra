@@ -27,7 +27,7 @@
 ### ADS-LD Output File: '.\Obj\Decoder.axf'
 ### ADS-LD Command File: '.\Obj\Decoder.l2p'
 ### Checking for dirty Components...
-### Creating CmdFile '.\Obj\Decoder.l2p', Handle=0x000015EC
+### Creating CmdFile '.\Obj\Decoder.l2p', Handle=0x000006F4
 ### Writing '.lnp' file
 ### ADS-LD Command file '.\Obj\Decoder.l2p' is ready.
 ### ADS-LD: About to start ADS-LD Thread.
