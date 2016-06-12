@@ -1,0 +1,10 @@
+.\Obj\i2s.o: ..\Library\src\i2s.c
+.\Obj\i2s.o: C:\Keil\ARM\Inc\NXP\LPC17xx\lpc17xx.h
+.\Obj\i2s.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\Obj\i2s.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\Obj\i2s.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\Obj\i2s.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\Obj\i2s.o: C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\Obj\i2s.o: C:\Keil\ARM\RV31\INC\rtl.h
+.\Obj\i2s.o: ..\Library\inc\i2s.h
+.\Obj\i2s.o: ..\Library\inc\dma.h

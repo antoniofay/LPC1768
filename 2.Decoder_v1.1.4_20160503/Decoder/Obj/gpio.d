@@ -1,0 +1,9 @@
+.\Obj\gpio.o: ..\Library\src\gpio.c
+.\Obj\gpio.o: C:\Keil\ARM\Inc\NXP\LPC17xx\lpc17xx.h
+.\Obj\gpio.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\Obj\gpio.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\Obj\gpio.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\Obj\gpio.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\Obj\gpio.o: C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\Obj\gpio.o: ..\Library\inc\gpio.h
+.\Obj\gpio.o: ..\Library\inc\adc.h

@@ -1,0 +1,9 @@
+.\Obj\http_cgi.o: HTTP_CGI.c
+.\Obj\http_cgi.o: C:\Keil\ARM\RV31\INC\Net_Config.h
+.\Obj\http_cgi.o: C:\Keil\ARM\RV31\INC\RTL.h
+.\Obj\http_cgi.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\Obj\http_cgi.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\Obj\http_cgi.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\Obj\http_cgi.o: ..\Library\inc\adc.h
+.\Obj\http_cgi.o: ..\Library\inc\iap.h
+.\Obj\http_cgi.o: ..\Library\inc\timer.h

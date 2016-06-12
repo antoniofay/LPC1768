@@ -1,0 +1,36 @@
+*** Creating Trace Output File '.\Obj\Decoder.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\obj\startup_lpc17xx.o"'
+### List of Objects: adding '".\obj\decoder.o"'
+### List of Objects: adding '".\obj\http_cgi.o"'
+### List of Objects: adding '".\obj\web.o"'
+### List of Objects: adding '".\obj\ring.o"'
+### List of Objects: adding '".\obj\net_config.o"'
+### List of Objects: adding '".\obj\system_lpc17xx.o"'
+### List of Objects: adding '".\obj\emac_lpc17xx.o"'
+### List of Objects: adding '".\obj\timer.o"'
+### List of Objects: adding '".\obj\wdt.o"'
+### List of Objects: adding '".\obj\gpio.o"'
+### List of Objects: adding '".\obj\uart.o"'
+### List of Objects: adding '".\obj\adc.o"'
+### List of Objects: adding '".\obj\iap.o"'
+### List of Objects: adding '".\obj\dma.o"'
+### List of Objects: adding '".\obj\i2s.o"'
+### List of Objects: adding '"C:\Keil\ARM\RV31\LIB\TCP_CM3.lib"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 ".\obj\startup_lpc17xx.o" ".\obj\decoder.o" ".\obj\http_cgi.o" ".\obj\web.o" ".\obj\ring.o" ".\obj\net_config.o" ".\obj\system_lpc17xx.o" ".\obj\emac_lpc17xx.o" ".\obj\timer.o" ".\obj\wdt.o" ".\obj\gpio.o" ".\obj\uart.o" ".\obj\adc.o" ".\obj\iap.o" ".\obj\dma.o" ".\obj\i2s.o" C:\Keil\ARM\RV31\LIB\TCP_CM3.lib 
+--strict --scatter ".\Obj\Decoder.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\Lst\Decoder.map" -o .\Obj\Decoder.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\Obj\Decoder.axf'
+### ADS-LD Command File: '.\Obj\Decoder.l2p'
+### Checking for dirty Components...
+### Creating CmdFile '.\Obj\Decoder.l2p', Handle=0x000015EC
+### Writing '.lnp' file
+### ADS-LD Command file '.\Obj\Decoder.l2p' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

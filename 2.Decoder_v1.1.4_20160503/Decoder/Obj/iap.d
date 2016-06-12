@@ -1,0 +1,13 @@
+.\Obj\iap.o: ..\Library\src\iap.c
+.\Obj\iap.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\Obj\iap.o: ..\Library\inc\iap.h
+.\Obj\iap.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\Obj\iap.o: C:\Keil\ARM\Inc\NXP\LPC17xx\lpc17xx.h
+.\Obj\iap.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\Obj\iap.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\Obj\iap.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\Obj\iap.o: C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\Obj\iap.o: C:\Keil\ARM\RV31\INC\Net_Config.h
+.\Obj\iap.o: C:\Keil\ARM\RV31\INC\RTL.h
+.\Obj\iap.o: ..\Library\inc\adc.h
+.\Obj\iap.o: ..\Library\inc\uart.h
